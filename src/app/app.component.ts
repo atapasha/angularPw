@@ -17,14 +17,8 @@ includeSimboles=false;
     this.password = '';
   }
   onButtonClick() {
-
-    this.password = 'mypassword';
-    console.log(`
-    generate password with following:
-    Includes Letters:${this.includeLetters},
-    Includes Numbers:${this.icludeNumbers},
-    Includes Simboles:${this.includeSimboles}
-    `);
+  const numebrs=""
+     
 
 
   }
